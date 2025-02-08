@@ -1,5 +1,4 @@
 <h1 align="center">Hey 👋, I'm Vlad</h1>
-<h3 align="center">Back-end Java developer from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vlkorolenko&label=Profile%20views&color=0e75b6&style=flat" alt="vlkorolenko" /> </p>
 
